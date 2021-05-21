@@ -127,6 +127,7 @@ function loadCLIConfig(configPath) {
 export {
   initialize,
   help,
+  getAvailableScripts,
   getModuleRequirePath,
   preloadModule,
   loadConfig,
